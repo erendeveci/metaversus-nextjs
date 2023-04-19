@@ -4,7 +4,7 @@
 
 <p>Created with NextJs 13</p>
 
-<a target="_blank" href="https://metaversus-nextjs-practice.vercel.app/">MetaVersus Web Site</a>
+<a href="https://metaversus-nextjs-practice.vercel.app/ "  target="_blank" >MetaVersus Web Site</a>
 
 <img  src="https://user-images.githubusercontent.com/73909361/233081889-4e28e115-33e5-4450-80a8-84211f8083f7.png"/> 
  
